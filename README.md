@@ -1,8 +1,8 @@
 # Keletso Monyamane
 
-🎓 Final-year Computing student at UNISA  
-💻 Software Engineering student at WeThinkCode_  
-🔐 Aspiring Fullstack Developer and Cybersecurity Enthusiast  
+-Final-year Computing student at UNISA  
+-Software Engineering student at WeThinkCode_  
+-Aspiring Fullstack Developer and Cybersecurity Enthusiast  
 
 I’m passionate about solving real-world problems with code, building secure and scalable systems, and continuously learning through hands-on projects. I'm currently upskilling in fullstack development, cloud technologies, and AI/ML fundamentals.
 
