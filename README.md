@@ -1,6 +1,6 @@
 # Keletso Monyamane
 
--Final-year Computing student at UNISA  
+-Final-year Computing student 
 -Software Engineering student at WeThinkCode_  
 -Aspiring Fullstack Developer and Cybersecurity Enthusiast  
 
@@ -26,11 +26,12 @@ I’m passionate about solving real-world problems with code, building secure an
 - **Portfolio Website**  
   Personal website showcasing my work, built with HTML/CSS/JavaScript. *(Coming soon)*
 
-- **Cybersecurity Labs**  
+- **secure CI/CD pipelines**  
   Practice repo for basic penetration testing, secure coding, and system hardening.
 
 - **SQL Data Dashboard**  
   Console-based dashboard to manage and visualize data using SQL queries.
+  
 
 ---
 
