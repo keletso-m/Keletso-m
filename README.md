@@ -21,7 +21,7 @@ WeThinkCode_ Alumni | UNISA Student | Passionate about building secure, scalable
 ###  [Fraud Detection System](https://github.com/keletso-m)
 ML-powered system that identifies fraudulent transactions using pattern recognition and anomaly detection. Built with Python and Scikit-Learn.
 
-###  [TeamOps — Incident & Risk Management System](https://github.com/keletso-m)
+###  [Incident & Risk Management System](https://github.com/keletso-m)
 A full team operations platform for tracking incidents, managing risks, and coordinating responses. Focused on real-world reliability engineering workflows.
 
 ###  [Mini Task Manager CI/CD Pipeline](https://github.com/keletso-m)
