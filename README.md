@@ -36,7 +36,7 @@ A task manager application paired with a secure CI/CD pipeline — covering auto
 
 ---
 
-##  Goals for 2025
+##  Goals for 2026
 
 -  Contribute to open source
 -  Complete UNISA degree
