@@ -31,7 +31,6 @@ A task manager application paired with a secure CI/CD pipeline — covering auto
 
 ##  Other Projects
 
-- **Customer Segmentation (RFM Analysis)** — Python-based RFM model to segment customers by purchasing behaviour.
 - **Apex HTTP Server** — Custom-built HTTP server from scratch, exploring low-level networking concepts.
 
 ---
