@@ -27,10 +27,6 @@ ML-powered system identifying fraudulent transactions using pattern recognition 
 `Full-stack`
 Team operations platform for tracking incidents, managing risks, and coordinating responses — focused on real-world reliability engineering.
 
-### [Mini task manager CI/CD pipeline](https://github.com/keletso-m)
-`DevOps`
-Task manager app paired with a secure CI/CD pipeline — automated testing, secure coding practices, and system hardening.
-
 ### [Apex HTTP server](https://github.com/keletso-m)
 `Networking`
 Custom-built HTTP server from scratch, exploring low-level networking concepts.
@@ -40,7 +36,7 @@ Custom-built HTTP server from scratch, exploring low-level networking concepts.
 ## 🎯 Goals for 2026
 
 - [ ] Contribute to open source
-- [ ] Complete UNISA degree
+- [ ] Complete degree
 - [ ] Earn CompTIA Security+ certification
 - [ ] Build & deploy a fullstack app from scratch
 - [ ] Attend a tech meetup or hackathon
