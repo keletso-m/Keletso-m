@@ -1,7 +1,7 @@
 
-# Hi, I'm Keletso Monyamane 👋
-**Aspiring developer & cybersecurity enthusiast**
-WeThinkCode_ alumni · UNISA student · Passionate about building secure, scalable systems and solving real-world problems with code.
+Hi, I'm Keletso Monyamane 👋
+I build software, explore cybersecurity, and turn ideas into practical solutions.
+Focused on creating secure, scalable systems that make an impact.
 
 ---
 
