@@ -5,7 +5,7 @@ Interested in backend engineering, infrastructure, and solving complex problems.
 
 ---
 
-## 🛠 Technical skills
+## Technical skills
 
 | | |
 |---|---|
@@ -17,7 +17,7 @@ Interested in backend engineering, infrastructure, and solving complex problems.
 
 ---
 
-## 🚀 Featured projects
+## Featured projects
 
 ### [Fraud detection system](https://github.com/keletso-m)
 `Python` `ML`
@@ -33,7 +33,7 @@ Custom-built HTTP server from scratch, exploring low-level networking concepts.
 
 ---
 
-## 🎯 Goals for 2026
+## Goals for 2026
 
 - [ ] Contribute to open source
 - [ ] Complete degree
