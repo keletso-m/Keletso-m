@@ -1,7 +1,7 @@
 
-Hi, I'm Keletso Monyamane 👋
-I build software, explore cybersecurity, and turn ideas into practical solutions.
-Focused on creating secure, scalable systems that make an impact.
+**Hi, I'm Keletso Monyamane** 👋
+I build secure systems, developer tools, and cybersecurity-focused applications.
+Interested in backend engineering, infrastructure, and solving complex problems.
 
 ---
 
