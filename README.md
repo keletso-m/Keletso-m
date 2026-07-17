@@ -12,7 +12,7 @@ Software developer focused on backend engineering, systems programming, and buil
 | **Web & backend** | HTML, CSS, JavaScript, Node.js, NestJS |
 | **Databases** | MySQL, PostgreSQL |
 | **Tools & platforms** | Git, GitHub, GitLab, VS Code, Linux |
-| **Interests** | Cybersecurity, DevOps, Cloud (AWS basics), AI/ML *(beginner)* |
+| **Interests** | Cybersecurity, DevOps, Cloud (AWS basics) |
 
 ---
 
@@ -20,11 +20,11 @@ Software developer focused on backend engineering, systems programming, and buil
 
 ### [Fraud detection system](https://github.com/keletso-m)
 `Python` `ML`
-ML-powered system identifying fraudulent transactions using pattern recognition and anomaly detection. Built with Python and scikit-learn.
+Security monitoring platform that analyzes system activity and financial transactions to generate explainable risk scores and incidents.
 
 ### [Incident & risk management system](https://github.com/keletso-m)
 `Full-stack`
-Team operations platform for tracking incidents, managing risks, and coordinating responses — focused on real-world reliability engineering.
+Team operations platform for tracking incidents, managing risks, and coordinating responses, focused on real-world reliability engineering.
 
 ### [Apex HTTP server](https://github.com/keletso-m)
 `Networking`
