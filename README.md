@@ -1,7 +1,6 @@
 
 ## Hi, I'm Keletso👋
-I build secure systems, developer tools, and cybersecurity-focused applications.
-Interested in backend engineering, infrastructure, and solving complex problems.
+Software developer focused on backend engineering, systems programming, and building secure, scalable applications.
 
 ---
 
