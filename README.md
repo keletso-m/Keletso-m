@@ -33,17 +33,17 @@ Custom-built HTTP server from scratch, exploring low-level networking concepts.
 ---
 
 ### Currently learning
- SOC 1 & defensive security
- Offensive security
- Cybersecurity fundamentals & security operations
- Hands-on cybersecurity labs and challenges on TryHackMe
- Linux, networking, and systems security
+ **SOC 1 & defensive security**
+ **Offensive security**
+ **Cybersecurity fundamentals & security operations**
+ **Hands-on cybersecurity labs and challenges on TryHackMe**
+ **Linux, networking, and systems security**
 
 I'm currently using TryHackMe to build practical cybersecurity skills and explore both the defensive and offensive sides of security for fun.
 
 ---
 ### Current interests
- # Networking & distributed systems
+ Networking & distributed systems
  Linux & systems engineering
  Cybersecurity — SOC, defensive & offensive security
  Cloud engineering — AWS
