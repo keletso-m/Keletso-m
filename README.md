@@ -43,7 +43,7 @@ I'm currently using TryHackMe to build practical cybersecurity skills and explor
 
 ---
 ### Current interests
- Networking & distributed systems
+ # Networking & distributed systems
  Linux & systems engineering
  Cybersecurity — SOC, defensive & offensive security
  Cloud engineering — AWS
