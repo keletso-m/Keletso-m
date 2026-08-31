@@ -32,15 +32,25 @@ Custom-built HTTP server from scratch, exploring low-level networking concepts.
 
 ---
 
-## Goals for 2026
+### Currently learning
+ SOC 1 & defensive security
+ Offensive security
+ Cybersecurity fundamentals & security operations
+ Hands-on cybersecurity labs and challenges on TryHackMe
+ Linux, networking, and systems security
 
-- [ ] Contribute to open source
-- [ ] Complete degree
-- [ ] Earn CompTIA Security+ certification
-- [ ] Build & deploy a fullstack app from scratch
-- [ ] Attend a tech meetup or hackathon
+I'm currently using TryHackMe to build practical cybersecurity skills and explore both the defensive and offensive sides of security for fun.
 
 ---
+### Current interests
+ Networking & distributed systems
+ Linux & systems engineering
+ Cybersecurity — SOC, defensive & offensive security
+ Cloud engineering — AWS
+ DevOps & infrastructure — Docker, Terraform, CI/CD
+ Open source — exploring projects, learning from the community, and eventually contributing where I can
+
+I'm interested in understanding how software works beyond the application layer — from networks and operating systems to infrastructure, cloud platforms, and security. I enjoy learning by building things, breaking things, and figuring out how they work.
 
 ## 🤝 Let's connect
 
