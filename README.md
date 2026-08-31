@@ -1,4 +1,3 @@
-
 ## Hi, I'm Keletso👋
 Software developer focused on backend engineering, systems programming, and building secure, scalable applications.
 
@@ -43,8 +42,8 @@ I'm currently using TryHackMe to build practical cybersecurity skills and explor
 
 ---
 ## Current interests
- ### Networking & distributed systems
- ### Linux & systems engineering
+ Networking & distributed systems
+ Linux & systems engineering
  Cybersecurity — SOC, defensive & offensive security
  Cloud engineering — AWS
  DevOps & infrastructure — Docker, Terraform, CI/CD
@@ -55,6 +54,6 @@ I'm interested in understanding how software works beyond the application layer 
 ## 🤝 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keletso-monyamane-b92b7827b)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/keletso-m)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:keletsomonyamane.dev@gmail.com)
+
 *Always learning. Always building.*
