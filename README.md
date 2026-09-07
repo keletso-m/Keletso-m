@@ -42,9 +42,9 @@ Custom-built HTTP server from scratch, exploring low-level networking concepts.
 ## Current interests
  - Networking & distributed systems
  - Linux & systems engineering
- - Cybersecurity — SOC, defensive & offensive security
- - Cloud engineering — AWS
- - DevOps & infrastructure — Docker, Terraform, CI/CD
+ - Cybersecurity 
+ - Cloud engineering 
+ - DevOps & infrastructure 
  - Open source — exploring projects, learning from the community, and eventually contributing where I can
 
 I'm interested in understanding how software works beyond the application layer, from networks and operating systems to infrastructure, cloud platforms, and security. I enjoy learning by building things, breaking things, and figuring out how they work.
