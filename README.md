@@ -33,8 +33,8 @@ Custom-built HTTP server from scratch, exploring low-level networking concepts.
 
 ## Currently learning
  - SOC 1,  defensive security and offensive security
- - cloud computing, platform engineering, distributed systems
- - Hands-on cybersecurity labs and challenges on TryHackMe and hackthebox
+ - Cloud computing, platform engineering, distributed systems
+ - Hands-on cybersecurity labs and challenges on TryHackMe and Hack The Box 
  - Linux, networking, and low-level programming
  
 
