@@ -7,8 +7,8 @@ Software developer focused on backend engineering, systems programming, and buil
 
 | | |
 |---|---|
-| **Languages** | Python, Java, C++, SQL, TypeScript |
-| **Web & backend** | HTML, CSS, JavaScript, Node.js, NestJS |
+| **Languages** | Python, Java, C++, SQL, TypeScript, Go, Java, c# |
+| **Web & backend** | HTML, CSS, JavaScript, Node.js, NestJS, Springboot |
 | **Databases** | MySQL, PostgreSQL |
 | **Tools & platforms** | Git, GitHub, GitLab, VS Code, Linux |
 | **Interests** | Cybersecurity, DevOps, Cloud (AWS basics) |
